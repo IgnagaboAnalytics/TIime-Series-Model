@@ -1,11 +1,11 @@
 # TIime-Series-Model-Crack-Course-
 In this repository you will find a different range of Time Series Models with its respective Python Code. 
 
-MA 
-ARIMA
-SARIMA 
-Regression Model with Time Series Errors 
-GARCH MODEL 
-Bootstrap method
+1) MA 
+2) ARIMA
+3) SARIMA 
+4) Regression Model with Time Series Errors 
+5) GARCH MODEL 
+6) Bootstrap method
 
-Forecasting the IBEX-35 
+Personal Project - Forecasting the IBEX-35 
