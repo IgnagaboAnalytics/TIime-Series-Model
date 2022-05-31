@@ -3,10 +3,12 @@ In this repository you will find a different range of Time Series Models with it
 
 1) AR 
 2) MA 
-3) ARIMA
-4) SARIMA 
-5) Regression Model with Time Series Errors 
-6) GARCH MODEL 
-7) Bootstrap method
+3) Box–Jenkins method
+4) ARIMA
+5) SARIMA 
+6) Regression Model with Time Series Errors 
+7) GARCH MODEL 
+8) Bootstrap method
+
 
 Personal Project - Forecasting the IBEX-35 
